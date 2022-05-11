@@ -1,0 +1,10 @@
+.header nav a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.header nav a:hover {
+    color: cadetblue;
+    font-weight: 700;
+}
